@@ -1,0 +1,14 @@
+C:\Repos\ExtremePC.FileUpload\src\ExtremePC.FileUpload.Services\bin\Debug\netcoreapp2.1\ExtremePC.FileUpload.Services.deps.json
+C:\Repos\ExtremePC.FileUpload\src\ExtremePC.FileUpload.Services\bin\Debug\netcoreapp2.1\ExtremePC.FileUpload.Services.dll
+C:\Repos\ExtremePC.FileUpload\src\ExtremePC.FileUpload.Services\obj\Debug\netcoreapp2.1\ExtremePC.FileUpload.Services.csprojAssemblyReference.cache
+C:\Repos\ExtremePC.FileUpload\src\ExtremePC.FileUpload.Services\obj\Debug\netcoreapp2.1\ExtremePC.FileUpload.Services.csproj.CoreCompileInputs.cache
+C:\Repos\ExtremePC.FileUpload\src\ExtremePC.FileUpload.Services\obj\Debug\netcoreapp2.1\ExtremePC.FileUpload.Services.AssemblyInfoInputs.cache
+C:\Repos\ExtremePC.FileUpload\src\ExtremePC.FileUpload.Services\obj\Debug\netcoreapp2.1\ExtremePC.FileUpload.Services.AssemblyInfo.cs
+C:\Repos\ExtremePC.FileUpload\src\ExtremePC.FileUpload.Services\bin\Debug\netcoreapp2.1\ExtremePC.FileUpload.Services.pdb
+C:\Repos\ExtremePC.FileUpload\src\ExtremePC.FileUpload.Services\bin\Debug\netcoreapp2.1\ExtremePC.FileUpload.Models.dll
+C:\Repos\ExtremePC.FileUpload\src\ExtremePC.FileUpload.Services\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Repos\ExtremePC.FileUpload\src\ExtremePC.FileUpload.Services\bin\Debug\netcoreapp2.1\ExtremePC.FileUpload.Models.pdb
+C:\Repos\ExtremePC.FileUpload\src\ExtremePC.FileUpload.Services\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Repos\ExtremePC.FileUpload\src\ExtremePC.FileUpload.Services\obj\Debug\netcoreapp2.1\ExtremePC.FileUpload.Services.csproj.CopyComplete
+C:\Repos\ExtremePC.FileUpload\src\ExtremePC.FileUpload.Services\obj\Debug\netcoreapp2.1\ExtremePC.FileUpload.Services.dll
+C:\Repos\ExtremePC.FileUpload\src\ExtremePC.FileUpload.Services\obj\Debug\netcoreapp2.1\ExtremePC.FileUpload.Services.pdb

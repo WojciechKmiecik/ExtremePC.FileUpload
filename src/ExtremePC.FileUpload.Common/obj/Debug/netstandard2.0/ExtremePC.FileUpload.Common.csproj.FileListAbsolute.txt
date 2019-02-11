@@ -1,0 +1,8 @@
+C:\Repos\ExtremePC.FileUpload\src\ExtremePC.FileUpload.Common\bin\Debug\netstandard2.0\ExtremePC.FileUpload.Common.deps.json
+C:\Repos\ExtremePC.FileUpload\src\ExtremePC.FileUpload.Common\bin\Debug\netstandard2.0\ExtremePC.FileUpload.Common.dll
+C:\Repos\ExtremePC.FileUpload\src\ExtremePC.FileUpload.Common\bin\Debug\netstandard2.0\ExtremePC.FileUpload.Common.pdb
+C:\Repos\ExtremePC.FileUpload\src\ExtremePC.FileUpload.Common\obj\Debug\netstandard2.0\ExtremePC.FileUpload.Common.csproj.CoreCompileInputs.cache
+C:\Repos\ExtremePC.FileUpload\src\ExtremePC.FileUpload.Common\obj\Debug\netstandard2.0\ExtremePC.FileUpload.Common.AssemblyInfoInputs.cache
+C:\Repos\ExtremePC.FileUpload\src\ExtremePC.FileUpload.Common\obj\Debug\netstandard2.0\ExtremePC.FileUpload.Common.AssemblyInfo.cs
+C:\Repos\ExtremePC.FileUpload\src\ExtremePC.FileUpload.Common\obj\Debug\netstandard2.0\ExtremePC.FileUpload.Common.dll
+C:\Repos\ExtremePC.FileUpload\src\ExtremePC.FileUpload.Common\obj\Debug\netstandard2.0\ExtremePC.FileUpload.Common.pdb
